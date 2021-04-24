@@ -241,6 +241,16 @@ h1{
     text-decoration: none;
 }
 
+.main-heading2:hover{
+    color:#00d1ff;
+}
+
+.red:hover{
+    color:red;
+}
+
+
+
 .wa{
     padding-top: 40px;
     font-size: 40px;
