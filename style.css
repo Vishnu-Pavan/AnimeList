@@ -102,7 +102,7 @@ h1{
 }
 
 .imagee:hover{
-    background-color: #2978b5;
+    background-color: red;
 }
 
 .l{
@@ -113,7 +113,7 @@ h1{
 }
 
 .l:hover{
-    color:red;
+    color: white;
 }
 
 .main-heading{
@@ -180,6 +180,93 @@ h1{
 
 .sec3{
     width: 100%;
+    height: 200px;
+    background-color:#d8e3e7;
+}
+
+.sec4{
+    position: relative;
+    width: 100%;
+    height: 130px;
+    background-color: #4a4a48;
+}
+
+.narutopic{
+    position:absolute;
+    left:150px;
+    bottom: 0;
+    width: 250px;
+}
+
+.mailp{
+    font-size: 40px;
+    width: 600px;
+    color: #dfdfdf;
+    margin-top: 0 ;
+    padding: 50px;
+    margin-left: 500px;
+}
+
+.Contact-us{
+    font-size: 40px;
+    width: 300px;
+    color: #dfdfdf;
+    margin-left: 100px;
+}
+
+.sec5{
+    display: flex;
+    width: 100%;
+    height: 200px;
+    background-color: #333333;
+}
+
+.sec6{
+    width: 500px;
     height: 100px;
-    background-color: #00d1ff;
+    margin: 0;
+    background-color: black;
+}
+
+.main-heading2{
+    position:absolute;
+    font-size: 50px;
+    padding-top: 25px;
+    margin-left: 120px;
+    margin-bottom: 0;
+    color: #dfdfdf;
+    font-family: 'Zen Dots', sans-serif;
+    text-decoration: none;
+}
+
+.wa{
+    padding-top: 40px;
+    font-size: 40px;
+    height: 40px;
+}
+
+.wa:hover{
+    color: #9ede73;
+}
+
+.insta{
+    margin-left: 25px;
+    padding-top: 40px;
+    font-size: 40px;
+    height: 40px;
+}
+
+.insta:hover{
+    color: red;
+}
+
+.face{
+    margin-left: 25px;
+    padding-top: 40px;
+    font-size: 40px;
+    height: 40px;
+}
+
+.face:hover{
+    color:#00d1ff;
 }
