@@ -101,8 +101,8 @@ h1{
     text-align: center;
 }
 
-.imagee:hover{
-    background-color: red;
+.bb{
+    margin-top: 3px;
 }
 
 .l{
@@ -113,7 +113,7 @@ h1{
 }
 
 .l:hover{
-    color: white;
+    color: red;
 }
 
 .main-heading{
@@ -128,9 +128,11 @@ h1{
 
 .naruto{
     width: 250px;
+    margin-bottom: 8px;
 }
 
 .narut{
+    margin-bottom: 8px;
     width: 250px;
     height:350px;
 }
@@ -270,6 +272,7 @@ h1{
 }
 
 .tele{
+    margin-top:0;
     margin-left: 25px;
     padding-top: 43px;
     font-size: 37px;
@@ -277,4 +280,8 @@ h1{
 
 .tele:hover{
     color:#9399ff;
+}
+
+i{
+    padding-top: 0;
 }
